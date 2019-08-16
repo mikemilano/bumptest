@@ -1,0 +1,8 @@
+{
+  "name": "bumper",
+  "version": "0.0.1",
+  "description": "I am made for bumping.",
+  "main": "index.js",
+  "author": "Mike Milano",
+  "license": "MIT"
+}
