@@ -4,5 +4,11 @@
   "description": "I am made for bumping.",
   "main": "index.js",
   "author": "Mike Milano",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "release": "./node_modules/.bin/bump --prompt --commit --all --tag --push"
+  },
+  "dependencies": {
+    "version-bump-prompt": "^5.0.4"
+  }
 }
