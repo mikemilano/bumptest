@@ -9,6 +9,6 @@
     "release": "./node_modules/.bin/bump --prompt --commit --all --tag --push"
   },
   "dependencies": {
-    "version-bump-prompt": "^5.0.4"
+    "version-bump-prompt": "^4.0.0"
   }
 }
